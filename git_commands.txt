@@ -1,0 +1,6 @@
+git init 
+ls -a 
+git status
+git add <file_name>
+got commit -m "heading what we are saving"
+git restore testing.py
